@@ -1,11 +1,14 @@
 ## Exno.7-Prompt-Engineering
-# Date:
-# Register no.212222033002
-# Aim:
+
+## Name: Marubiona Rajesh
+
+## Register no.212222033002
+
+## Aim:
 
 To Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-# Algorithm:
+## Algorithm:
 
 1.Identify a personal requirement (e.g., daily task organization).
 
